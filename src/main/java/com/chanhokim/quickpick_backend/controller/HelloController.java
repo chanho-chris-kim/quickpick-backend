@@ -1,4 +1,4 @@
-package com.example.quickpick_backend;
+package com.chanhokim.quickpick_backend.controller;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;

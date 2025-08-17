@@ -1,4 +1,4 @@
-package com.example.quickpick_backend;
+package com.chanhokim.quickpick_backend.config;
 
 
 import org.springframework.context.annotation.Bean;
